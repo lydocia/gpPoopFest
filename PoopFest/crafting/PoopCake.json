@@ -1,0 +1,8 @@
+{
+    "id" : "lydociaPoopCake",
+    "craftedFrom" : "cake : 1, poop : 10",
+    "craftingMachine" : "decorationstation",
+    "craftingCommand" : "Splat",
+    "craftingRequires" : "",
+    "base" : false
+}

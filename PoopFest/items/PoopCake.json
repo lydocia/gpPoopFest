@@ -1,0 +1,10 @@
+{
+    "itemtype" : "bouquet",
+    "id" : "lydociaPoopCake",
+    "name" : "Poop Cake",
+    "desc" : "It looks a bit strange, but don't knock it 'til you tried it!",
+    "icon" : "lydociaPoopCake",
+    "buy" : 1000,
+    "sell" : 1000,
+    "stacksTo" : 10,
+}
